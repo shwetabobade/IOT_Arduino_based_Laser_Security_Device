@@ -20,8 +20,11 @@ Blynk system.
 
 <h2>Author</h2>
 <ul>
-  <li>Shweta Bobade
-  <li>Sandeep Ranmode
+  <li>Shweta Bobade     <a href="https://github.com/shwetabobade">@shwetabobade</a>
+  <li>Sandeep Ranmode   <a href="https://github.com/sandeepranmode">@sandeepranmode</a>
 </ul>
-<br>
+<h2>University</h2>
+SHIVNAGAR VIDYA PRASARAK MANDAL'S
+COLLEGE OF ENGINEERING, MALEGAON (BK)-BARAMATI
+<br><br><p>
 The schematics and Code will be provided in their respected folders.
