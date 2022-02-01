@@ -27,4 +27,4 @@ Blynk system.
 SHIVNAGAR VIDYA PRASARAK MANDAL'S
 COLLEGE OF ENGINEERING, MALEGAON (BK)-BARAMATI
 <br><br><p>
-The schematics and Code will be provided in their respected folders.
+The schematics,Code and referral links will be updated by 07 Feb.
