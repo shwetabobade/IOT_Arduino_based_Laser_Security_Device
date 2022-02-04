@@ -20,7 +20,7 @@ Blynk system.
 
 <h2>Author</h2>
 <ul>
-  <li>Shweta Bobade (Kaku)     <a href="https://github.com/shwetabobade">@shwetabobade</a>
+  <li>Shweta Bobade      <a href="https://github.com/shwetabobade">@shwetabobade</a>
   <li>Sandeep Ranmode   <a href="https://github.com/sandeepranmode">@sandeepranmode</a>
 </ul>
 <h2>University</h2>
